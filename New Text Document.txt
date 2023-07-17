@@ -1,0 +1,2 @@
+1. Two halfs of the array in new array
+2. Number swapping
